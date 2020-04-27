@@ -1,0 +1,16 @@
+@import 'header';
+@import 'login';
+
+$primary-color:#00F260;
+$lightColor: #f1f1f1;
+
+
+// general styles
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	font-family: 'Roboto', sans-serif;
+}
+
